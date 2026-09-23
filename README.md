@@ -7,11 +7,6 @@
 
 - 🌱 I’m currently learning **html, css, javascript,python**
 
-- 👨‍💻 All of my projects are available at [http://127.0.0.1:5500/i.html](http://127.0.0.1:5500/i.html)
-
-- 📫 How to reach me **shriyashi2007@gmail.com**
-
-- 📄 Know about my experiences [file:///C:/Users/HP/Downloads/Shriyashi_Resume.pdf](file:///C:/Users/HP/Downloads/Shriyashi_Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
